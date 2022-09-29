@@ -8,7 +8,7 @@
          "id":"1509428502953",
          "title":"Sample Stream",
          "content":{  
-            https://s2.ozarkstrafficoneview.com/rtplive/CAM80/playlist.m3u8
+            "https://s2.ozarkstrafficoneview.com/rtplive/CAM80/playlist.m3u8"
          },
          "language":{  
             "en"
